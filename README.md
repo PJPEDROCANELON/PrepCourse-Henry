@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio del modulo 2 del curso de henry
+este es un proyecto de prueba de visual estudio code para github guao
